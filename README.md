@@ -11,6 +11,7 @@ https://drive.google.com/file/d/1xnFs8BrzokJYgkhC6aM9cVxdrZTbFAtF/view?usp=shari
 
 # Protótipo - React / Figma Make
 Para o desenvolvimento do protótipo do aplicativo, foi utilizado a ferramenta Figma Make. O link do projeto segue abaixo:
+
 https://www.figma.com/make/ktbJiCwZ2iCDLWEXqlONuQ/Gym-Assistant-App-Design?node-id=0-1&p=f&t=vdefEECNoQ9SlXzm-0&fullscreen=1
 
 O código do programa inicial está disponível em "my-app" , sendo esse a primeira versão do app. 
