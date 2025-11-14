@@ -9,6 +9,12 @@ Segue abaixo o link do diagrama de classes do projeto:
 
 https://drive.google.com/file/d/1xnFs8BrzokJYgkhC6aM9cVxdrZTbFAtF/view?usp=sharing
 
+# Colab
+
+Para o teste e aplicação das classes, foi utilizado o colab. 
+
+https://colab.research.google.com/drive/1i7nXS3ZhJugHLNCPgA1abxxGO8jxiZqd?authuser=2#scrollTo=B9cccjtDxAfY
+
 # Protótipo - React / Figma Make
 Para o desenvolvimento do protótipo do aplicativo, foi utilizado a ferramenta Figma Make. O link do projeto segue abaixo:
 
